@@ -1,4 +1,11 @@
 ### Hi there 👋
+<p align="center">
+
+ 
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=manukao&theme=icegray&hide_border=true&border_radius=5&fire=EB5454&ring=EB5454">
+ 
+ <!-- <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+</p>-->
 
 <!--
 **manukao/manukao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
