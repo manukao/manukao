@@ -1,23 +1,23 @@
-### Hi there 👋
-<p align="center">
+<div align="center">
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Greetings!" height="200" />
+  <p align="left">
+    <b>Web dev adventurer and dad</b> with a passion for all things tech. On a mission to create meaningful digital experiences and push my boundaries, eager to make a living out of my passion for IT. #webDev #plantBased #fitness #web3 #ecommerce #design #branding
+  </p>
+</div>
 
- 
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=manukao&theme=icegray&hide_border=true&border_radius=5&fire=EB5454&ring=EB5454">
- 
- <!-- <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
-</p>-->
+<br>
 
-<!--
-**manukao/manukao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11140693615&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/manukao" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://twitter.com/manukaokao" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+  </a>
+</div>
