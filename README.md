@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Greetings!" height="140" />
   <p align="left">
-    <b>Web dev adventurer and dad</b> with a passion for all things tech. On a mission to create meaningful digital experiences and push my boundaries, eager to make a living out of my passion for IT. #webDev #eCommerce #web3 #branding #plantBased #fitness #gamer
+    <b>Web dev adventurer and dad</b> with a passion for all things tech. On a mission to create meaningful digital experiences and push boundaries. <br>
+  <p align="center">#webDev #eCommerce #web3 #branding #plantBased #fitness #gamer</p>
   </p>
 </div>
 
