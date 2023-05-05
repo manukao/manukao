@@ -4,8 +4,8 @@
   <br><br>
   
   <p align="left">
-    <b>Web dev adventurer and dad</b> with a passion for all things tech. On a mission to create meaningful digital experiences and push boundaries. <br><br>
-  <p align="center">#webDev #eCommerce #Shopify #AI #web3 #branding</p>
+    <b>Web dev adventurer</b> with a passion for all things tech. On a mission to create meaningful digital experiences and push boundaries. <br><br>
+  <p align="center">#eCommerce #Shopify #AI #three.js #web3</p>
   </p>
 </div>
 
